@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop Gaming Acer Nitro 5",
+    "price": 20000000,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 2,
+    "name": "Chuột Không Dây Logitech G304",
+    "price": 500000,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 3,
+    "name": "Bàn Phím Cơ AKKO 3068B v2",
+    "price": 1500000,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 4,
+    "name": "Tai Nghe Chụp Tai Sony WH-1000XM4",
+    "price": 6500000,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 5,
+    "name": "Màn Hình ASUS TUF Gaming 24 inch",
+    "price": 3800000,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 6,
+    "name": "Lót Chuột Cỡ Lớn RGB (80x30cm)",
+    "price": 250000,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 7,
+    "name": "Loa Máy Tính Bluetooth Edifier X230",
+    "price": 1200000,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 8,
+    "name": "Webcam Logitech C922 Pro Stream",
+    "price": 1850000,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 9,
+    "name": "Giá Đỡ Gắn Màn Hình Arm Human Motion T6",
+    "price": 750000,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 10,
+    "name": "Ghế Công Thái Học Sihoo M57",
+    "price": 3500000,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 11,
+    "name": "Ổ Cứng Di Động SSD Samsung T7 1TB",
+    "price": 2400000,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 12,
+    "name": "RAM Desktop Kingston Fury Beast 16GB",
+    "price": 1150000,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 13,
+    "name": "Đèn Treo Màn Hình Bảo Vệ Mắt Baseus",
+    "price": 450000,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 14,
+    "name": "Micro Thu Âm Razer Seiren Mini",
+    "price": 1100000,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 15,
+    "name": "Cáp Sạc Nhanh Anker Type-C To Type-C",
+    "price": 180000,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 16,
+    "name": "Đế Tản Nhiệt Laptop Cool cold K27",
+    "price": 320000,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 17,
+    "name": "Hub Chuyển Đổi Baseus 6 in 1 Type-C",
+    "price": 550000,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 18,
+    "name": "Tay Cầm Chơi Game Microsoft Xbox Series X",
+    "price": 1450000,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 19,
+    "name": "Bút Trình Chiếu Logitech R400",
+    "price": 350000,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 20,
+    "name": "Pin Sạc Dự Phòng Anker 20.000mAh",
+    "price": 850000,
+    "image": "https://via.placeholder.com/150"
+  }
+]
